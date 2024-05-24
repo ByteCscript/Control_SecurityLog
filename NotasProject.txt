@@ -16,3 +16,5 @@ Creación proyecto ceva recepción - node.js-JS-Express-JS-HTM-CSS
 -
 --- REST API - endpoints-
 restclain- thunderclain
+
+5- npm mysql2  --> sql en nodejs
