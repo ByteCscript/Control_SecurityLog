@@ -1,0 +1,18 @@
+echo "# Control_SecurityLog" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ByteCscript/Control_SecurityLog.git
+git push -u origin main
+
+
+Creación proyecto ceva recepción - node.js-JS-Express-JS-HTM-CSS
+1- npm init -y    --> abre proyecto y crea el package.json
+2- npm i express  --> instalar express
+3- npm i nodemon -D   --> dependencia de desarrollo
+4- npm run dev --> cambios en tiempo real con el servidor (localhost/3000)
+--- antes creaba el servidor --
+-
+--- REST API - endpoints-
+restclain- thunderclain
